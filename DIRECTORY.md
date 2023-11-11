@@ -1,6 +1,4 @@
 
-## [Simple Neural Network With Tensorflow](/Simple_Neural_Network_with_TensorFlow.ipynb)
-
 ## Arithmetic Analysis
   * [Bisection](arithmetic_analysis/bisection.py)
   * [Gaussian Elimination](arithmetic_analysis/gaussian_elimination.py)
@@ -715,6 +713,7 @@
 
 ## Neural Network
   * [2 Hidden Layers Neural Network](neural_network/2_hidden_layers_neural_network.py)
+  * [Simple Neural Network With Tensorflow](neural_network/Simple_Neural_Network_with_TensorFlow.ipynb)
   * Activation Functions
     * [Exponential Linear Unit](neural_network/activation_functions/exponential_linear_unit.py)
     * [Leaky Rectified Linear Unit](neural_network/activation_functions/leaky_rectified_linear_unit.py)
