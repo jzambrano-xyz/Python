@@ -713,6 +713,7 @@
 
 ## Neural Network
   * [2 Hidden Layers Neural Network](neural_network/2_hidden_layers_neural_network.py)
+  * [Simple Neural Network With Pytorch](neural_network/Simple_Neural_Network_with_PyTorch.ipynb)
   * [Simple Neural Network With Tensorflow](neural_network/Simple_Neural_Network_with_TensorFlow.ipynb)
   * Activation Functions
     * [Exponential Linear Unit](neural_network/activation_functions/exponential_linear_unit.py)
